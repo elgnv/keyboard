@@ -1,3 +1,3 @@
-module head-first-go/ch04/keyboard
+module test/keyboard
 
 go 1.19
